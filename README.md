@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **small machine learning projects**
 
-- 🌱 I’m currently learning **ML**
+- 🌱 I’m currently learning **C, C++ and ML**
 
 - 👯 I’m looking to collaborate on **any startup/projects**
 
