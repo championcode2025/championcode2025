@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Meeth S Bafna</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on **small machine learning projects**
+- 🔭 I’m currently working on a **P2P File transfer Project**
 
-- 🌱 I’m currently learning **C, C++ and ML**
+- 🌱 I’m currently learning **java and sql**
 
 - 👯 I’m looking to collaborate on **any startup/projects**
 
