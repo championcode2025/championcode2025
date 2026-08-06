@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meeth S Bafna</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on a **P2P File transfer Project**
+- 🔭 I’m currently working on a **P2P File Synchronisation Project**
 
 - 🌱 I’m currently learning **java and sql**
 
